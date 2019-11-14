@@ -2,6 +2,7 @@
 
 Warning: Experimental Beta!
 A 1.8.8 Minecraft version that combines every legit-client with interesting parts of hack-clients and my own ideas.
+Paradoxon destroys the metaphorical picture of what is possible to see and do in Minecraft, especially for CWBW.
 
 You will find completely new functionalities, such as "TNTPillar" an enhanced Detector, a beautiful ESP and more.
 
