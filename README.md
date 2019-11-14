@@ -1,6 +1,16 @@
 # Paradoxon-Client
 
-## Warning: Experimental Beta!
+Warning: Experimental Beta!
+
+## CWBW
+**Bedwars-Clanwar** is a Minigame on the popular Minecraft-Server [GommeHD.net](gommehd.net).
+It's a game where four players fight against four other players.
+When you die, you'll respawn, until your bed gets destroyed. As your bed is destroyed, you can't respawn after you've died.
+The last standing Team wins.
+There are many tactics around this GameMode, such as throwing Ender-Pearls, dropping TNT to your bed or jumping down a MLG-Way.
+
+
+
 
 ### How to use the Client:
 
