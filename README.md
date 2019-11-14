@@ -1,8 +1,11 @@
 # Paradoxon-Client
 
 Warning: Experimental Beta!
+A 1.8.8 Minecraft version that combines every legit-client with interesting parts of hack-clients and my own ideas.
 
-## CWBW
+You will find completely new functionalities, such as "TNTPillar" an enhanced Detector, a beautiful ESP and more.
+
+### CWBW
 **Bedwars-Clanwar** is a Minigame on the popular Minecraft-Server [GommeHD.net](gommehd.net).
 It's a game where four players fight against four other players.
 When you die, you'll respawn, until your bed gets destroyed. As your bed is destroyed, you can't respawn after you've died.
