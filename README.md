@@ -40,6 +40,9 @@ Run the Installer/Updater and the Client gets automatically installed when you d
 
 To download the Installer/Updater, go to the "release" section.
 
+### For Developer, especially Skids:
+This Client is private, even if you would consider reverse-engineering it, it is not done yet and an obfuscation, that will make the skidding of code even harder, will be used when I think the development process is far enough to say that there are many valuable things to steal. 
+
 ### Other
 
 WARNING: By using the Installer/Updater, your configs get lost!
