@@ -35,7 +35,7 @@ Ingame: type in ".help" to get information about every command.
 
 ### How to Install / Update:
 
-Download the Installer/Updater, buy a passcode by contacting me via Twitter: @ParadoxonClient
+Download the Installer/Updater, buy a passcode by contacting me via Twitter: [@paradoxon_cw](twitter.com/paradoxon_cw)
 Run the Installer/Updater and the Client gets automatically installed when you don't own it or it gets reinstalled (updated). 
 
 To download the Installer/Updater, go to the "release" section.
